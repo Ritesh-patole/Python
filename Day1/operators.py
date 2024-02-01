@@ -1,10 +1,10 @@
-#Arithmetic Operators  +, - , *, /, %, Exoinent ** , Floor Division //
-#Comparison/Relational Operators 
-#Assignment Operators
-#Logical Operators
-#Bitwise Operators
-#Membership Operators
-#Identity Operators
+#Arithmetic Operators : +, - , *, /, %, Exoinent ** , Floor Division //
+#Comparison/Relational Operators : ==, !=, <, >, <=,>=,<>
+#Assignment Operators : =,+=,-=,/=,%=,//=,**=,|=,^=
+#Logical Operators : and, or, not
+#Bitwise Operators: &,|,^,~,<<,>>
+#Membership Operators : is, is not
+#Identity Operators : in, not in
 
 num1=10
 num2=20
