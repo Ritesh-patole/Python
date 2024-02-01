@@ -61,3 +61,15 @@ print(f"Logical operators: {logical_and}, {logical_or}, {logical_not}")
 print(f"Bitwise operators: {Bitwise_and}, {Bitwise_or}, {Bitwise_xor}, {Bitwise_not_num1}, {left_shift}, {right_shift}")
 print(f"Membership operators: {is_in_list}, {not_in_list}")
 print(f"Identity operators: {is_same_object}, {is_not_same_object}, {is_same_value_but_diff_object}")
+
+
+
+
+
+# Output - 
+# Arithmetic operators: 30, -10, 200, 0.5, 10, 100000000000000000000
+# Comparison operators: False, True, True, False, False, True
+# Logical operators: False, True, False
+# Bitwise operators: 0, 30, 30, -11, 40, 2
+# Membership operators: True, True
+# Identity operators: True, False, True
