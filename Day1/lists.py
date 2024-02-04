@@ -12,7 +12,9 @@ sublist = mixed_list[1:3]
 
 # Modifying Lists
 mixed_list.append('orange')
+print(mixed_list)
 mixed_list.insert(1, 'banana')
+print(mixed_list)
 removed_element = mixed_list.pop(2)
 mixed_list[0] = 42
 
